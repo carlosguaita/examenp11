@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "funciones.h"
 
 int main (int argc, char *argv[]) {
 
@@ -11,7 +12,7 @@ int main (int argc, char *argv[]) {
 
     float radio = obtenerRadio(x1,y1,x2,y2,x3,y3);
 
-    obtenerArea(radio);
+    obtenerArea(radio,x1,y1,x2,y2,x3,y3);
 
 
     return 0;
