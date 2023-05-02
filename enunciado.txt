@@ -1,5 +1,5 @@
-Desarrollar un programa que me permita obtener el área del circulo inscrito
-en un triangulo formado por 3 puntos en el plano cartesiano. Los puntos son ingresados
+Desarrollar un programa que me permita obtener el área entre el circulo inscrito
+en un triangulo formado por 3 puntos en el plano cartesiano y el triangulo. Los puntos son ingresados
 por teclado y tiene componente X y Y.
 
-Se debe conservar la extructura del archivo main.c
+Se debe conservar la estructura del archivo main.c
